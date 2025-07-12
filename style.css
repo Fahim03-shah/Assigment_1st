@@ -1,8 +1,8 @@
  body {
   margin: 0;
   font-family: Arial, sans-serif;
-  
-  
+
+  background-color: rgba(214, 221, 237, 0.381);  
 }
 
 .raleway-normal {
@@ -31,7 +31,7 @@
   justify-content: space-between;
   align-items: center;
   padding: 15px 40px;
-  background-image: url('../images/Hero-bg.png'); /* Replace if using a different navbar image */
+  background-image: url('./images/Hero-bg.png'); /* Replace if using a different navbar image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -60,7 +60,7 @@
 .banner {
   text-align: center;
   padding: 60px 20px;
-  background-image: url('../images/Hero-bg.png'); /* Use a different image if desired */
+  background-image: url('./images/Hero-bg.png'); /* Use a different image if desired */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
